@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-Budgeting-Buddy-Kotlin.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-Budgeting-Buddy-Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Budgeting-Buddy-Kotlin.iml" filepath="$PROJECT_DIR$/.idea/Budgeting-Buddy-Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestion budget/Budgeting-Buddy-Kotlin-app.iml" filepath="$PROJECT_DIR$/gestion budget/Budgeting-Buddy-Kotlin-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestion budget/app.iml" filepath="$PROJECT_DIR$/gestion budget/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestion budget/gestion budget-gestion budget.iml" filepath="$PROJECT_DIR$/gestion budget/gestion budget-gestion budget.iml" group="gestion budget/gestion budget" />
+      <module fileurl="file://$PROJECT_DIR$/icon-gestion budget.iml" filepath="$PROJECT_DIR$/icon-gestion budget.iml" group="gestion budget" />
+    </modules>
+  </component>
+</project>
